@@ -10,6 +10,9 @@
     "enableScan": "true",
     "scanPullRequests": true
   },
+  "issueSettings": {
+    "minSeverityLevel": "NONE"
+  },
   "remediateSettings": {
     "workflowRules": {
       "enabled": false
